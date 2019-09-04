@@ -1,0 +1,8 @@
+// copy-paste these  as is in the keyboard shortcuts to your VS code keybundings.json
+[
+    {
+        "key": "ctrl+b",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Build All (Docker)"
+    }
+]
